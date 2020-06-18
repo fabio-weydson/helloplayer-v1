@@ -1,0 +1,16 @@
+.form .below-form {
+  padding: 15px 0;
+  text-align: center;
+}
+
+.form a {
+  display: block;
+  margin-bottom: 15px;
+}
+.form a.create {
+  font-size: 18px;
+}
+.form a:last-child {
+  color: #aaa;
+  text-decoration: none;
+}
